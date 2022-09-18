@@ -1,2 +1,1 @@
-# Minecraft_FontTemplate_ResourcePack
-Java Minecraft font (ttf)
+assets/minecraft/font/ に font.ttf を追加するだけ
